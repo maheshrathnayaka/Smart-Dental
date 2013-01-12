@@ -1,4 +1,4 @@
 Smart-Dental
 ============
 
-SmartDental IOS App
+Smart Dental IOS App
