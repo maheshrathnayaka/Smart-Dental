@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chart</key>
+	<dict>
+		<key>Primary</key>
+		<string>Primary</string>
+		<key>Restoration</key>
+		<string>Restoration</string>
+		<key>Crown+R</key>
+		<string>CrownRoot</string>
+		<key>Crown-R</key>
+		<string>CrownBridge</string>
+		<key>Residual C</key>
+		<string>Residual_C</string>
+		<key>Residual R</key>
+		<string>Residual_R</string>
+		<key>Missing</key>
+		<string>Missing</string>
+		<key>Implant</key>
+		<string>Implant</string>
+		<key>Position</key>
+		<string>Position</string>
+		<key>Decay</key>
+		<string>Decay</string>
+		<key>Fractured</key>
+		<string>Fractured</string>
+		<key>Inflammation</key>
+		<string>Inflammation</string>
+		<key>Calculus</key>
+		<string>Calculus</string>
+		<key>Mobility</key>
+		<string>Mobility</string>
+		<key>Sensitive</key>
+		<string>Sensitive</string>
+		<key>Apical Cyst</key>
+		<string>Apical_Cyst</string>
+	</dict>
+	<key>Plan</key>
+	<dict>
+        <key>Extracted</key>
+		<string>Extracted</string>
+		<key>RCT</key>
+		<string>RCT</string>
+		<key>Scaling</key>
+		<string>Scaling</string>
+		<key>Planning</key>
+		<string>Planning</string>
+		<key>Flap &amp; Graft</key>
+		<string>Flap_Graft</string>
+		<key>Desensit</key>
+		<string>Desensit</string>
+		<key>Cyst Excision</key>
+		<string>Cyst_Excision</string>
+		<key>Sealant</key>
+		<string>Sealant</string>
+		<key>Restoration</key>
+		<string>Restoration</string>
+		<key>Crown</key>
+		<string>Crown</string>
+		<key>Post &amp; Core</key>
+		<string>Post_Core</string>
+		<key>Fixture</key>
+		<string>Fixture</string>
+		<key>Abutment</key>
+		<string>Abutment</string>
+		<key>Orthodontics</key>
+		<string>Orthodontics</string>
+		<key>Whitening</key>
+		<string>Whitening</string>
+	</dict>
+</dict>
+</plist>
